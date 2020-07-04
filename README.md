@@ -10,6 +10,7 @@
 
 目录:
 
-DelayedMessageQueue: 延迟消息队列
+DelayedMessageQueue: 延迟消息队列（消息聚合延迟推送）
 
+DynamicLock: 动态锁（根据指定变量参数进行加锁）
 
